@@ -605,7 +605,7 @@ CONFIG_USBBLASTER_SPI ?= yes
 CONFIG_MSTARDDC_SPI ?= no
 
 # Always enable PICkit2 SPI dongles for now.
-CONFIG_PICKIT2_SPI ?= yes
+##CONFIG_PICKIT2_SPI ?= yes
 
 # Always enable dummy tracing for now.
 CONFIG_DUMMY ?= yes
